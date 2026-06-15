@@ -18,11 +18,11 @@
     "category": "Truyền hình"
   },
   {
-    "name": "Sintel (Phim hoạt hình)",
+    "name": "Hunter",
     "logo": "https://m.media-amazon.com/images/M/MV5BZjliZDRkZTYtYTBkNi00NzAxLTg0YmQtODE0YjVmNWNjNjhiXkEyXkFqcGc@._V1_.jpg",
     "url": "https://file.vipphim.online/films/Mindata/2026/1704/Humint2026/Humint2026.m3u8",
     "category": "Phim ảnh",
-    "subtitle": "https://raw.githubusercontent.com/nhatp7111-commits/webtv-configs/refs/heads/main/sintel.vtt"
+    "subtitle": "https://file.vipphim.online/films/Mindata/2026/1704/Humint2026/Humint2026.vtt"
   },
   {
     "name": "Tears of Steel (Phim viễn tưởng)",
