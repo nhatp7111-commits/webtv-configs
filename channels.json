@@ -1,19 +1,19 @@
 [
   {
     "name": "VTV1 HD",
-    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV1_150x902_1675158864.webp",
+    "logo": "logos/VTV1.webp?v=1",
     "url": "https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8",
     "category": "Truyền hình"
   },
   {
     "name": "VTV2 HD",
-    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV2_150x902_1675158864.webp",
+    "logo": "logos/VTV2.webp?v=1",
     "url": "https://live-a.fptplay53.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8",
     "category": "Truyền hình"
   },
   {
     "name": "VTV3 HD",
-    "logo": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/VTV3_150x902_1675158864.webp",
+    "logo": "logos/VTV3.webp?v=1",
     "url": "https://live-a.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8",
     "category": "Truyền hình"
   },
