@@ -19,8 +19,8 @@
   },
   {
     "name": "Sintel (Phim hoạt hình)",
-    "logo": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=400&q=80",
-    "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+    "logo": "https://m.media-amazon.com/images/M/MV5BZjliZDRkZTYtYTBkNi00NzAxLTg0YmQtODE0YjVmNWNjNjhiXkEyXkFqcGc@._V1_.jpg",
+    "url": "https://file.vipphim.online/films/Mindata/2026/1704/Humint2026/Humint2026.m3u8,
     "category": "Phim ảnh",
     "subtitle": "https://raw.githubusercontent.com/nhatp7111-commits/webtv-configs/refs/heads/main/sintel.vtt"
   },
